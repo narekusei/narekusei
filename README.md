@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hey, I'm Alex 💙
 
-<!--
-**narekusei/narekusei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏝️ **Frontend Engineer** based in Miyakojima, Japan  
+🇯🇵 **Visa**: Engineer/Specialist in Humanities (Valid until 2030) ✅  
+🗣️ **Languages**: English • Russian • Japanese (JLPT N3)  
+💻 **Stack**: React • TypeScript • Tailwind CSS • Vite • Zustand  
 
-Here are some ideas to get you started:
+🎯 **Currently**: Building modern web apps + seeking Frontend roles in **Fukuoka** or Remote  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Featured Project**: [🏝️ MiyakoStay](https://github.com/narekusei/miyakostay) – Hotel booking UI with i18n  
+
+📬 Let's connect:  
+[LinkedIn](https://www.linkedin.com/in/alex-nesterov-74aa9721a/) • [Email](alexeynesterov91@gmail.com)
