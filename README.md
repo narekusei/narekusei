@@ -2,7 +2,7 @@
 
 🏝️ **Frontend Engineer** based in Miyakojima, Japan  
 🇯🇵 **Visa**: Engineer/Specialist in Humanities (Valid until 2030) ✅  
-🗣️ **Languages**: English • Russian • Japanese (JLPT N3)  
+🗣️ **Languages**: English • Russian • Japanese   
 💻 **Stack**: React • TypeScript • Tailwind CSS • Vite • Zustand  
 
 🎯 **Currently**: Building modern web apps + seeking Frontend roles in **Fukuoka** or Remote  
